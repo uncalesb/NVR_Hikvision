@@ -2,3 +2,27 @@
 {
     "Keyword":"CameraInfo"
 }
+# DeviceInfo_Message_Request
+{
+    "Keyword":"DeviceInfo"
+}
+# GetList_NVR_File
+
+{
+    "Keyword": "GetListFile",
+    "StartYear": 2021,
+    "StartMonth": 4,
+    "StartDate": 19,
+    "StartHour": 0,
+    "StartMinute": 0,
+    "StartSecond": 0,
+    "EndYear": 2021,
+    "EndMonth": 4,
+    "EndDate": 23,
+    "EndHour": 23,
+    "EndMinute": 59,
+    "EndSecond": 59
+  }
+ 
+ # Download_NVR_File
+ http://IP:8883/downloadNvrFile?name=ch0001_00000000014000106
