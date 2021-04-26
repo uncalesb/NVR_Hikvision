@@ -1,0 +1,21 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="Data">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element minOccurs="0" name="Keyword" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="StartYear" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="StartMonth" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="StartDate" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="StartHour" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="StartMinute" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="StartSecond" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="EndYear" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="EndMonth" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="EndDate" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="EndHour" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="EndMinute" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="EndSecond" type="xsd:string"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
