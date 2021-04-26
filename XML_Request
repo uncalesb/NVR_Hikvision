@@ -1,0 +1,37 @@
+# Use POST method to send these message wether JSON or XML format
+# Get NVR File List
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Data>
+    <Keyword>GetListFile</Keyword>
+    <StartYear>2021</StartYear>
+    <StartMonth>4</StartMonth>
+    <StartDate>19</StartDate>
+    <StartHour>0</StartHour>
+    <StartMinute>0</StartMinute>
+    <StartSecond>0</StartSecond>
+    <EndYear>2021</EndYear>
+    <EndMonth>4</EndMonth>
+    <EndDate>23</EndDate>
+    <EndHour>23</EndHour>
+    <EndMinute>59</EndMinute>
+    <EndSecond>59</EndSecond>
+</Data>
+
+# Camera Info
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+	<Keyword>CameraInfo</Keyword>
+</Data>
+
+# Device Info
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+	<Keyword>DeviceInfo</Keyword>
+</Data>
+
+# Download
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+	<Keyword>Download</Keyword>
+	<FileName>ch0001_00000000014000106</FileName>
+</Data>
