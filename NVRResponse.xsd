@@ -1,0 +1,14 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="Data">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element minOccurs="0" name="DeviceName"/>
+                <xsd:element minOccurs="0" name="DeviceSerial" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="DeviceType" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="DSPSoftVersion" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="DeviceSoftwareVersion" type="xsd:string"/>
+                <xsd:element minOccurs="0" name="DeviceNumber" type="xsd:string"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
