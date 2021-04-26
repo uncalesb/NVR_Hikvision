@@ -29,9 +29,12 @@
 	<Keyword>DeviceInfo</Keyword>
 </Data>
 
-# Download
+# Download_NVR_File
 <?xml version="1.0" encoding="UTF-8" ?>
 <Data>
 	<Keyword>Download</Keyword>
 	<FileName>ch0001_00000000014000106</FileName>
 </Data>
+
+ # Download_NVR_File
+ http://IP:8883/downloadNvrFile?name=ch0001_00000000014000106
