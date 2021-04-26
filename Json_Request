@@ -24,5 +24,5 @@
     "EndSecond": 59
   }
  
- # Download_NVR_File
+ # Download_NVR_File method GET via HTTP protocol
  http://IP:8883/downloadNvrFile?name=ch0001_00000000014000106
