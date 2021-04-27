@@ -17,4 +17,4 @@ Source -> NVR_Response_FileList.xsd\
 Destination -> REST_Response_FileList.xsd
 ### Response Mapping
 ![alt text](https://github.com/UncalESB/NVR_Hikvision/blob/main/resmap.JPG)
-## you can check the structure for other purposes
+## you can check the rest for other purposes
