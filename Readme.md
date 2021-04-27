@@ -10,12 +10,11 @@ is a keyword to get files listed on nvr with start-time and end-time as search p
 #### Request Structure
   Source -> REST_Request_FileList.xsd\
   Destination -> NVR_Request_FileList.xsd
+### Request Mapping
+![alt text](https://github.com/UncalESB/NVR_Hikvision/blob/main/reqmap.JPG)
 #### Response Structure
 Source -> NVR_Response_FileList.xsd\
 Destination -> REST_Response_FileList.xsd
-
-you can check the structure for other purposes
-### Request Mapping
-![alt text](https://github.com/UncalESB/NVR_Hikvision/blob/main/reqmap.JPG) 
 ### Response Mapping
 ![alt text](https://github.com/UncalESB/NVR_Hikvision/blob/main/resmap.JPG)
+## you can check the structure for other purposes
