@@ -15,3 +15,4 @@ Source -> NVR_Response_FileList.xsd\
 Destination -> REST_Response_FileList.xsd
 
 you can check the structure for other purposes
+![alt text](https://github.com/UncalESB/NVR_Hikvision/blob/main/reqmap.JPG) 
