@@ -1,5 +1,5 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <xsd:element name="Data">
+    <xsd:element name="Root">
         <xsd:complexType>
             <xsd:sequence>
                 <xsd:element maxOccurs="unbounded" minOccurs="0" name="DataFile">
